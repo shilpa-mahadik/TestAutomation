@@ -8,5 +8,10 @@ public class Gitex1 {
 		System.out.println("First GIT example");
 
 	}
+	
+	public void M1()
+	{
+		System.out.println("In Method1");
+	}
 
 }
